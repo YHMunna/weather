@@ -1,0 +1,5 @@
+{
+  "git.autorefresh": false,
+  "git.enableCommitSigning": true,
+  "git.enabled": false
+}
